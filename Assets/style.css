@@ -1,0 +1,45 @@
+* {
+    scroll-behavior: smooth;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sections {
+    box-sizing: border-box;
+    background: wheat;
+    padding: 35px;
+    margin: 338px;
+    ;
+}
+
+nav {
+    margin: -8px;
+    overflow: hidden;
+    background-color: darkcyan;
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    top: 0;
+    width: 100%;
+    box-sizing: border-box;
+    position: fixed;
+}
+.img1 {
+    height: 150px;
+    width: 450px;
+}
+.img2 {
+    height: 150px;
+    width: 200px;
+}
+
+@media (max-width: 600px) {
+    .img1 {
+        height: 150px;
+        width: 250px;
+    }
+
+}
