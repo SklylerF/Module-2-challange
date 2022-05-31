@@ -1,22 +1,27 @@
 * {
+    font-family: system-ui;
+    text-align: center;
     scroll-behavior: smooth;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
+    list-style-type: none;
 }
 
 .sections {
+    border: 20px solid darkcyan;
     box-sizing: border-box;
     background: wheat;
     padding: 35px;
     margin: 338px;
-    ;
+    border-radius: 122px;
 }
-
 nav {
+    border: 23px solid darkcyan;
+    border-radius: 8px;
     margin: -8px;
     overflow: hidden;
-    background-color: darkcyan;
+    background-color: wheat;
     float: left;
     display: block;
     color: black;
@@ -27,13 +32,24 @@ nav {
     box-sizing: border-box;
     position: fixed;
 }
+
 .img1 {
-    height: 150px;
-    width: 450px;
+    border-radius: 50px;
+    height: 90px;
+    width: 300px;
 }
+
 .img2 {
-    height: 150px;
-    width: 200px;
+    border-radius: 25px;
+    height: 250px;
+    width: 333px;
+}
+.img3{
+    height: 129px;
+    width: 154px;
+}
+.inline {
+    display: initial;
 }
 
 @media (max-width: 600px) {
@@ -42,4 +58,7 @@ nav {
         width: 250px;
     }
 
+    p {
+        color: red;
+    }
 }
