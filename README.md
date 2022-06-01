@@ -25,5 +25,5 @@ smart phones
 
 link to web page  <a href="https://sklylerf.github.io/Module-2-challange/"
 
-link to git hub <a href="https://github.com/SklylerF/Module-2-challange">
+link to git hub <a href="https://github.com/SklylerF/Module-2-challange/"
 
