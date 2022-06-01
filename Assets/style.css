@@ -52,7 +52,7 @@ nav {
     display: initial;
 }
 
-@media (max-width: 600px) {
+@media screen and (max-width: 600px) {
     .img1 {
         height: 150px;
         width: 250px;
