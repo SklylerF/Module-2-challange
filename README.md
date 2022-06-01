@@ -18,6 +18,7 @@ tablets
 <img src="./Assets/images/tablet 1 (3).png" alt="portfolio home page">
 
 smart phones
+
 <img src="./Assets/images/iphone  (1).png" alt="portfolio home page">
 <img src="./Assets/images/iphone  (2).png" alt="portfolio home page">
 <img src="./Assets/images/iphone  (3).png" alt="portfolio home page">
