@@ -10,4 +10,18 @@ desktop
 <img src="./Assets/images/2022-05-31 (1).png" alt="portfolio home page">
 <img src="./Assets/images/2022-05-31.png" alt="portfolio home page">
 <img src="./Assets/images/2022-05-31 (2).png" alt="portfolio home page">
+
+tablets
+<img src="./Assets/images/tablet 1 (1).png" alt="portfolio home page">
+<img src="./Assets/images/tablet 1 (2).png" alt="portfolio home page">
+<img src="./Assets/images/tablet 1 (3).png" alt="portfolio home page">
+
+smart phones
+<img src="./Assets/images/iphone  (1).png" alt="portfolio home page">
+<img src="./Assets/images/iphone  (2).png" alt="portfolio home page">
+<img src="./Assets/images/iphone  (3).png" alt="portfolio home page">
+
 link to web page  <a href="https://sklylerf.github.io/Module-2-challange/"
+
+link to git hub <a href="https://github.com/SklylerF/Module-2-challange">
+
